@@ -68,4 +68,4 @@ population in catchment area of vaccination sites, types and number of vaccine
 doses, expiration date of vaccine does, availability of trained healthcare
 staff, and presence of cold storage facility. The app maximizes number of people
 vaccinated while minimizing vaccine wastage across thousands of vaccination
-sites. (App development will end on May 31)
+sites.
